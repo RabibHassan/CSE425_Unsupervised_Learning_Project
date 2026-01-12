@@ -1,0 +1,5 @@
+Component,Input Dim,Hidden Layers,Latent Dim,Output Dim
+Audio VAE Encoder,57,"[256, 128, 64]",32,32
+Audio VAE Decoder,32,"[64, 128, 256]",32,57
+Lyrics VAE Encoder,100,"[512, 256, 128]",32,32
+Lyrics VAE Decoder,32,"[128, 256, 512]",32,100
