@@ -1,5 +1,5 @@
 # CSE425_Unsupervised_Learning_Project
-In each folder is structured as 
+In each folder EasyTask/MediumTask/HardTask- they are structured as 
 data/
 audio/
 lyrics/
