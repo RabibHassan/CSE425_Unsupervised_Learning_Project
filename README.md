@@ -15,5 +15,6 @@ latent_visualization/
 clustering_metrics.csv
 task.py
 README.md
-requirements.txt
-Run the easy/medium/hard_task.py to run each task. 
+requirements.txt.
+
+Run the easy/medium/hard_task.py in their respective folder to run each task. 
