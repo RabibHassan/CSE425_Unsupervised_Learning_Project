@@ -1,4 +1,0 @@
-Dataset,Total Samples,Features,Languages/Genres,Missing Values,Usage
-GTZAN Audio,1000,57 (audio),10 genres,0,Audio features
-Lyrics (English),1000,5000→100 (TF-IDF→SVD),1 language,0,Text features
-Aligned Multi-modal,1000,57 + 100,10 genres,0,Combined
